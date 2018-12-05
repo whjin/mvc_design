@@ -8,6 +8,6 @@
  */
 class testModel {
     function get() {
-        return "hello world";
+        return "我决定使用中文。";
     }
 }
