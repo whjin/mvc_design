@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec50c930-7ea0-446e-a24b-b9cf70efc19e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/cache/1bb4da52d51d18b4fc7c6053152dd2722588b51b.test.tpl.php" afterPath="$PROJECT_DIR$/test/cache/1bb4da52d51d18b4fc7c6053152dd2722588b51b.test.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/template_c/38e5c8b43736596d29a31017a380c657d5041070_0.file.test.tpl.cache.php" afterPath="$PROJECT_DIR$/test/template_c/38e5c8b43736596d29a31017a380c657d5041070_0.file.test.tpl.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test.php" afterPath="$PROJECT_DIR$/test/test.php" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="420">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="false" />
               </folding>
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/test/tpl/test.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -65,8 +64,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="713" />
-    <option name="y" value="18" />
+    <option name="x" value="867" />
+    <option name="y" value="181" />
     <option name="width" value="1308" />
     <option name="height" value="962" />
   </component>
@@ -238,15 +237,15 @@
       <option name="presentableId" value="Default" />
       <updated>1544027155150</updated>
       <workItem from="1544027156379" duration="4707000" />
-      <workItem from="1544038377398" duration="5122000" />
+      <workItem from="1544038377398" duration="7397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9829000" />
+    <option name="totallyTimeSpent" value="12104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="713" y="18" width="1308" height="962" extended-state="0" />
+    <frame x="867" y="181" width="1308" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21317829" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -350,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="420">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="false" />
           </folding>
@@ -361,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/test/tpl/test.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>

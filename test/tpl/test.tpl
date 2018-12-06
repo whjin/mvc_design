@@ -1,1 +1,1 @@
-{$articleTitle|cat:" yesterday"}
+{$articleTitle|default:"文章标题"}
