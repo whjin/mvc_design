@@ -17,4 +17,7 @@ $smarty->caching = true;
 $smarty->cache_lifetime = 120;
 
 $smarty->assign('articleTitle', '文章标题');
+$arr = array('articleContent' => array('title' => 'smarty的学习', 'author' => '张三'));
+$smarty->assign('arr', $arr);
+$smarty->assign('articleTitle', 'i ate an apple');
 $smarty->display('test.tpl');

@@ -1,1 +1,1 @@
-{$articleTitle}
+{$articleTitle|cat:" yesterday"}
