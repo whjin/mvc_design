@@ -9,5 +9,4 @@ out
 gen
 .gitignore
 .idea/
-cache/
-template_c/
+
